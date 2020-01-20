@@ -175,8 +175,8 @@
     <Folder Include="Control\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\CommonLibrary\CommonUtils\CommonUtils\CommonUtils.csproj">
-      <Project>{ebfca1b5-23f1-4f94-928a-db1a7b98eed6}</Project>
+    <ProjectReference Include="..\..\..\..\..\CommonRepository\MyCommonLibrary001\CommonUtils\CommonUtils\CommonUtils.csproj">
+      <Project>{71d24717-2ed7-4852-8395-78c80acac579}</Project>
       <Name>CommonUtils</Name>
     </ProjectReference>
   </ItemGroup>
